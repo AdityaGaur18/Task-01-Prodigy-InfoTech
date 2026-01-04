@@ -42,20 +42,7 @@ This project demonstrates data analysis and visualization techniques using Pytho
 pip install pandas numpy matplotlib seaborn
 ```
 
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/population-visualization.git
-cd population-visualization
-```
-
-2. Ensure you have the CSV file (`population.csv`) in the same directory
-
-3. Run the Jupyter notebook or Python script
-```bash
-jupyter notebook Task_01.ipynb
-```
+ 
 
 ## Visualizations
 
